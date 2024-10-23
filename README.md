@@ -5,9 +5,10 @@ Lien du repository du projet : https://github.com/L3-Info-Miage-Universite-Cote-
 
 Ce répertoire contient une copie de mon projet de licence dont le sujet était le suivant : 
 
-![Sujet](https://github.com/Mentra20/Projet-de-licence-L3-S6/blob/master/sujet.png)
-![Evo1](https://github.com/Mentra20/Projet-de-licence-L3-S6/blob/master/Evolution1.png)
-![Evo2](https://github.com/Mentra20/Projet-de-licence-L3-S6/blob/master/Evolution2.png)
+![image](https://github.com/user-attachments/assets/43b30ffe-e158-4c32-82e8-9f65964fb2b6)
+![image](https://github.com/user-attachments/assets/065fbf5e-e3cf-4cd9-885b-7df56ea0c6e0)
+![image](https://github.com/user-attachments/assets/5863ee74-2bb5-40df-881e-8d3f7ed8ba62)
+
 
 Le serveur se trouve dans *javastd/serveur* et le client dans *android/* la partie commun se trouve dans *javastd/commun*  
 
